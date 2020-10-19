@@ -11,5 +11,11 @@ ___
 ## Shortcuts
 1. __Win+L__ - блокировка компьютера
 2. __Ctrl+L__ - для очистки окна терминала
-3. [Шорткаты PyCharm](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
-4. [Шорткаты VsCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+3. [Шорткаты PyCharm ENG](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
+4. [Шорткаты VsCode ENG](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+___
+## Utils
+1. [Evernote](https://evernote.com) - Блокнот который синхронизируется со всеми устройствами
+2. [Todoist](https://todoist.com) - TODO список которые также синхронизируется со всеми устройствами и он лучше встроенного потому что есть везде
+3. [Slack](https://slack.com) - Для общения в команде
+4. [SmartGit](https://www.syntevo.com/smartgit/) - GUI git для Linux
